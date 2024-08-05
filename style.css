@@ -1,0 +1,19 @@
+.assign-2-shape-1, .assign-2-shape-2 {
+    color: white;
+    width: 500px;
+    height: 500px;
+    padding: 30px;
+    margin-bottom: 10px;
+    background-image: url("image.png"); /* Adjust the path to your image */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.assign-2-shape-1 {
+    background-size: 80% 80%;
+}
+
+.assign-2-shape-2 {
+    background-size: 100% 100%; /* Adjust as necessary */
+    background-color: rgba(255, 255, 255, 0.5); /* Adding a semi-transparent white overlay */
+}
